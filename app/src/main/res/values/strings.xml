@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_shixun</string>
+    <string name="start_bt">开始按钮</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="OK">OK</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+</resources>
